@@ -95,10 +95,6 @@ artify-image-editor/
 
 ---
 
-## 🎨 Screenshots
-*(Add screenshots of the app here)*
-
----
 
 ## 🤝 Contributing
 
